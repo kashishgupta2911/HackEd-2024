@@ -1,8 +1,10 @@
 # HackEd-2024
 Participants:
-        Aditya Patel
-        Siddhant Goel
-        Kashish Gupta
+        Aditya Patel,
+        Siddhant Goel,
+        Kashish Gupta,
+        Ishav,
+        Ishan
 
 *Problem Statement:
         We have created Real-Time Sign Language Detection using Tensorflow Object Detection and Python | Deep Learning SSD*
