@@ -1,8 +1,8 @@
 # HackEd-2024 Project #
 ## **Participants:** ##
-
-Aditya Patel,
-Siddhant Goel,
+-------------
+Aditya Patel
+Siddhant Goel
 Kashish Gupta
 
 
