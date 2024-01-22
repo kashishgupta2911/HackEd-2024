@@ -1,5 +1,6 @@
 # HackEd-2024 Project #
-## **Participants:**  |  
+## **Participants:**  
+Participants  |  
 ------------- |  
 Aditya Patel  |  
 Siddhant Goel  |  
