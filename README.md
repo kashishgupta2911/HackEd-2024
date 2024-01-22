@@ -5,12 +5,10 @@
         Kashish Gupta
 
 **NOTE:**
-
 This Github Repo doesn't contain the fully trained data model. So, the fully trained files with ML model can be accessed at the following Google Drive Link:
 [HackEd 2024 - Google Drive(with Trained Data Files)](https://bit.ly/HackEd_2024_Google_Drive_Trained_Data)
 
 **PROBLEM STATEMENT:**
-
 We have created Real-Time Sign Language Detection using Tensorflow Object Detection and Python | Deep Learning SSD*
 
 In this project, our collective goal was to develop a real-time sign language detection system using deep learning techniques with Tensorflow and Python. Implementing a Single Shot Multibox Detector (SSD) for object detection, specifically tailored to recognize and interpret sign language gestures was our primary focus in the project.
