@@ -1,10 +1,12 @@
-# HackEd-2024
+## HackEd-2024 Project
 Participants:
         Aditya Patel,
         Siddhant Goel,
-        Kashish Gupta,
-        Ishav,
-        Ishan
+        Kashish Gupta
+
+*NOTE:*
+This Github Repo doesn't contain the fully trained data model. So, the fully trained files with ML model are available at the following Google Drive Link:
+[HackEd 2024 - Google Drive(with Trained Data Files)](https://bit.ly/HackEd_2024_Google_Drive_Trained_Data)
 
 *Problem Statement:
         We have created Real-Time Sign Language Detection using Tensorflow Object Detection and Python | Deep Learning SSD*
