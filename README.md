@@ -1,4 +1,4 @@
-### HackEd-2024 Project ###
+# HackEd-2024 Project #
 ## **Participants:** ##
 
 Aditya Patel,
