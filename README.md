@@ -1,8 +1,14 @@
 ## HackEd-2024 Project
 **Participants:**
-        Aditya Patel,
-        Siddhant Goel,
-        Kashish Gupta
+
+Aditya Patel,
+
+Siddhant Goel,
+
+Kashish Gupta
+
+
+
 
 **NOTE:**
 This Github Repo doesn't contain the fully trained data model. So, the fully trained files with ML model can be accessed at the following Google Drive Link:
