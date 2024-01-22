@@ -1,14 +1,11 @@
 # HackEd-2024 Project #
-## **Participants:** ## | \\
--------------  |  -------------
-Aditya Patel   |  \\
-Siddhant Goel  |  \\
-Kashish Gupta  |  \\
+## **Participants:** 
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+First Header  |  
+------------- |  
+Aditya Patel  |  
+Siddhant Goel  |  
+Kashish Gupta  |  
 
 
 ## **NOTE:** ##
