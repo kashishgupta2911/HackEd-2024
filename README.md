@@ -14,9 +14,13 @@ We have created Real-Time Sign Language Detection using Tensorflow Object Detect
 In this project, our collective goal was to develop a real-time sign language detection system using deep learning techniques with Tensorflow and Python. Implementing a Single Shot Multibox Detector (SSD) for object detection, specifically tailored to recognize and interpret sign language gestures was our primary focus in the project.
 
 
+
+
 **DESCRIPTION:**
 
 The primary objective of this project was to create a robust and efficient system capable of recognizing and interpreting sign language gestures in real-time using laptop camera. The implementation revolves around leveraging the power of Tensorflow's Object Detection API and utilizing the SSD architecture for accurate and fast detection of sign language gestures.
+
+
 
 
 **KEY COMPONENTS:**
@@ -24,6 +28,9 @@ The primary objective of this project was to create a robust and efficient syste
 1. *Tensorflow Object Detection API:* This project heavily relies on Tensorflow's Object Detection API to facilitate the implementation of an accurate and efficient detection model. This API offers a rich set of pre-trained models and tools for custom model training.
 
 2. *Single Shot Multibox Detector (SSD):* SSD is a state-of-the-art object detection algorithm known for its real-time processing capabilities. By utilizing SSD, the project aims to achieve high accuracy in recognizing and localizing sign language gestures within video streams.
+
+
+
 
 **WORKFLOW:**
 
