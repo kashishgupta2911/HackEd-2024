@@ -5,7 +5,7 @@ import math
 import time
 
 cap = cv2.VideoCapture(0)
-detector = HandDetector(maxHands=1) #only one hand for now
+detector = HandDetector(maxHands=1) #with max hand = 1 (using one hand)
 
 offset = 20
 imgSize = 300
